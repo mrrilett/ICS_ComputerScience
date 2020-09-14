@@ -1,2 +1,2 @@
 # ICS Computer Studies
-Introduction to Computer Studies
+Introduction to Computer Science
