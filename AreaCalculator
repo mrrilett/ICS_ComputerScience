@@ -1,15 +1,13 @@
 '''
-Create a program that allows a user
+      __        _______    _______       __      
+     /""\      /"      \  /"     "|     /""\     
+    /    \    |:        |(: ______)    /    \    
+   /' /\  \   |_____/   ) \/    |     /' /\  \   
+  //  __'  \   //      /  // ___)_   //  __'  \  
+ /   /  \\  \ |:  __   \ (:      "| /   /  \\  \ 
+(___/    \___)|__|  \___) \_______)(___/    \___)
+By Connor Rilett
 
-to calculate the area for a square,
-
-rectangle, circle and triangle. The
-
-program must allow for user input and
-
-must use functions to perform each
-
-arithmetic operation.
 '''
 
 def square 
